@@ -10,11 +10,7 @@
 <div align="center">  <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Lenovo_%282015%29.svg" width="320" alt="Lenovo Logo">
   <br>
-  
-  <div>
-    <h1 style="background: linear-gradient(90deg, #000000, #1B1464); color: #E5E5E5; font-weight: 900; letter-spacing: 2px; padding: 8px; border-radius: 10px; margin-bottom: 25px">LEGION SYSTEM</h1>
-  </div>
-  
+   
   <hr style="height: 3px; background: linear-gradient(90deg, transparent, #7D3C98, transparent); border: none; margin: 25px 0">
   
   <h3>
