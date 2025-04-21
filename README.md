@@ -1,7 +1,7 @@
 # 🚀 Legion | The Ultimate Lenovo Email System
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Lenovo_Global_Corporate_Logo.png" width="280" alt="Lenovo Logo">
+  <img src="https://commons.wikimedia.org/wiki/File:Lenovo_Global_Corporate_Logo.png#/media/File:Lenovo_(2015).svg" width="280" alt="Lenovo Logo">
 
   [![Status: Revolutionary](https://img.shields.io/badge/STATUS-REVOLUTIONARY-success?style=for-the-badge)]()
   [![Region: DACH Dominator](https://img.shields.io/badge/REGION-DACH_DOMINATOR-blue?style=for-the-badge)]()
