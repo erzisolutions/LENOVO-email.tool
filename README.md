@@ -1,1 +1,1 @@
-# GLOBL-E-mailer-PRO
+# LENOVO E-Mail Tool
