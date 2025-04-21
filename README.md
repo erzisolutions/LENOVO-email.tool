@@ -1,3 +1,29 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Lenovo_%282015%29.svg" width="320" alt="Lenovo Logo">
+  <br>
+  <br>
+  <div style="background: linear-gradient(90deg, #000000, #1B1464); padding: 8px; border-radius: 10px; margin-bottom: 25px">
+    <h1 style="color: #E5E5E5; font-weight: 900; letter-spacing: 2px; margin: 0">LEGION SYSTEM</h1>
+  </div>
+Show Image
+Show Image
+Show Image
+<br>
+Show Image
+Show Image
+  <hr style="height: 3px; background: linear-gradient(90deg, transparent, #7D3C98, transparent); border: none; margin: 25px 0">
+  <h3 style="font-style: italic; color: #FFD700; text-shadow: 1px 1px 3px #000;">
+    <span style="font-size: 125%">⚡</span> 
+    <strong>The legendary system that enabled ONE agent to handle ALL DACH emails daily</strong>
+    <span style="font-size: 125%">⚡</span>
+  </h3>
+  <h3 style="font-style: italic; margin-top: 15px;">
+    <span style="color: #3498DB">Created by the record-breaking</span> 
+    <span style="color: #FF5733; font-weight: bold; font-size: 110%">TPAgent195</span>
+  </h3>
+  <hr style="height: 3px; background: linear-gradient(90deg, transparent, #7D3C98, transparent); border: none; margin: 25px 0">
+</div>
+
 # 🚀 Legion | The Ultimate Lenovo Email System
 
 <div align="center">
