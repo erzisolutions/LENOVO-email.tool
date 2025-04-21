@@ -94,33 +94,33 @@ Performance  -----------------+-------------------
 ![LEGION Interface](https://via.placeholder.com/850x450?text=LEGION+Command+Center)
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                     LEGION COMMAND CENTER                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ┌─Agent─────────┐ ┌─Customer─────┐ ┌─Case─────────────────┐   │
-│  │ ID: _________ │ │ Name: ______ │ │ Number: ____________ │   │
-│  │ Name: _______ │ │ Title: _____ │ │ Category: __________ │   │
-│  └───────────────┘ └──────────────┘ └─────────────────────┘   │
-│                                                                 │
-│  ┌─Response Arsenal────────────────────────────────────────┐   │
-│  │ [Troubleshooting▼] [Hardware▼] [Recovery▼] [Legal▼]     │   │
-│  └──────────────────────────────────────────────────────────┘   │
-│                                                                 │
+┌──────────────────────────────────────────────────────────────────┐
+│                     LEGION COMMAND CENTER                        │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ┌─Agent─────────┐ ┌─Customer─────┐ ┌─Case─────────────────┐     │
+│  │ ID: _________ │ │ Name: ______ │ │ Number: ____________ │     │
+│  │ Name: _______ │ │ Title: _____ │ │ Category: __________ │     │
+│  └───────────────┘ └──────────────┘ └─────────────────────┘      │
+│                                                                  │
+│  ┌─Response Arsenal────────────────────────────────────────┐     │
+│  │ [Troubleshooting▼] [Hardware▼] [Recovery▼] [Legal▼]     │     │
+│  └─────────────────────────────────────────────────────────┘     │
+│                                                                  │
 │  ┌─Email Forge───────────────────────────────────────────────┐   │
 │  │                                                           │   │
-│  │ Sehr geehrter Herr [Name],                               │   │
+│  │ Sehr geehrter Herr [Name],                                │   │
 │  │                                                           │   │
-│  │ vielen Dank für Ihre Anfrage mit der Fallnummer [Case].  │   │
+│  │ vielen Dank für Ihre Anfrage mit der Fallnummer [Case].   │   │
 │  │ ...                                                       │   │
 │  │                                                           │   │
 │  └───────────────────────────────────────────────────────────┘   │
-│                                                                 │
-│  ┌─Action Command─────────────────────────┐                    │
-│  │ [GENERATE] [RESET] [COPY] [NEXT CASE] │                    │
-│  └────────────────────────────────────────┘                    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+│                                                                  │
+│  ┌─Action Command─────────────────────────┐                      │
+│  │ [GENERATE] [RESET] [COPY] [NEXT CASE] │                       │
+│  └────────────────────────────────────────┘                      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -236,6 +236,4 @@ Not Lenovo. Not IT. The actual genius who built this system and broke all record
 <div align="center">
   <p><i>"I didn't just handle emails. I redefined what was possible."</i></p>
   <p>© 2025 | Created by TPAgent195 | erzi.solutions@gmail.com</p>
-  
-  ![LEGION: Because impossible is just a word](https://via.placeholder.com/200x60?text=LEGION:+Redefining+Possible)
-</div>
+  </div>
